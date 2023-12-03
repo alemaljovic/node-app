@@ -1,0 +1,44 @@
+[
+    {
+      "q": "What is the term used for a block of code that is executed repeatedly until a certain condition is met?",
+      "a": "Function",
+      "b": "Loop",
+      "c": "Conditin",
+      "d": "Variable",
+      "an": "b"
+    },
+    {
+      "q": "Which programming language is known for its use in web development?",
+      "a": "Java",
+      "b": "Python",
+      "c": "C#",
+      "d": "JavaScript",
+      "an": "d"
+    },
+    {
+      "q": "Which programming language is used for developing Android apps?",
+      "a": "Java",
+      "b": "Python",
+      "c": "C#",
+      "d": "Swift",
+      "an": "a"
+    },
+  
+    {
+      "q": "Which of the following is a relational database management system?",
+      "a": "MongoDB",
+      "b": "SQLite",
+      "c": "MySQL",
+      "d": "Redis",
+      "an": "c"
+    },
+  
+    {
+      "q": "What does HTML stand for?",
+      "a": "Hypertext Markup Language",
+      "b": "High-level Text Language",
+      "c": "Hyperlink and Text Markup Language",
+      "d": "Home Tool Markup Language ",
+      "an": "a"
+    }
+  ]

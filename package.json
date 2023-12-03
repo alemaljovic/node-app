@@ -1,0 +1,16 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "quiz-app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alem Aljovic",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
